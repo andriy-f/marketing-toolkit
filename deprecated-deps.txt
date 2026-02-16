@@ -1,0 +1,1 @@
+2 deprecated subdependencies found: dax-sh@0.43.2, glob@10.5.0
